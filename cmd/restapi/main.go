@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 	"os/signal"
-	_ "restapi/cmd/internal/data"
-	_ "restapi/cmd/internal/server"
+
+	. "restapi/cmd/internal/server"
 	"time"
 )
 

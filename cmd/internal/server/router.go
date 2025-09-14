@@ -2,7 +2,6 @@ package server
 
 import (
 	"net/http"
-	_ "restapi/cmd/internal/data"
 	"time"
 
 	"github.com/gorilla/mux"

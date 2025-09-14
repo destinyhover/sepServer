@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 	"net/http"
-	_ "restapi/cmd/internal/data"
+	. "restapi/cmd/internal/data"
 	"strconv"
 	"time"
 
